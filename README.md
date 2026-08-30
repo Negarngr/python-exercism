@@ -1,5 +1,3 @@
-# python-exercism
-
 # Python Exercism Solutions
 
 This repository contains my solutions to Python exercises from [Exercism](https://exercism.org/).
